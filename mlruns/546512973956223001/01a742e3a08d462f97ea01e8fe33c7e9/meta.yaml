@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/eslun/Documents/CURSOS/repositorio_MLOps/Guia_CI_CD/mlruns/546512973956223001/01a742e3a08d462f97ea01e8fe33c7e9/artifacts
+end_time: 1777928448296
+entry_point_name: ''
+experiment_id: '546512973956223001'
+lifecycle_stage: active
+run_id: 01a742e3a08d462f97ea01e8fe33c7e9
+run_name: bedecked-skink-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777928419133
+status: 3
+tags: []
+user_id: eslun

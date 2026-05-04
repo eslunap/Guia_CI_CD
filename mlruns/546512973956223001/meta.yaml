@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/eslun/Documents/CURSOS/repositorio_MLOps/Guia_CI_CD/mlruns/546512973956223001
+creation_time: 1777928415927
+experiment_id: '546512973956223001'
+last_update_time: 1777928415927
+lifecycle_stage: active
+name: diabetes-regression-ci-cd
+trace_location: null
+workspace: default

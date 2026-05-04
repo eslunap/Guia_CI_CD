@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/eslun/Documents/CURSOS/repositorio_MLOps/Guia_CI_CD/mlruns/546512973956223001/models/m-ca18c3716ac343408de4049fd5ed0f93/artifacts
+creation_timestamp: 1777928419344
+experiment_id: '546512973956223001'
+last_updated_timestamp: 1777928448186
+model_id: m-ca18c3716ac343408de4049fd5ed0f93
+model_type: null
+name: model
+source_run_id: 01a742e3a08d462f97ea01e8fe33c7e9
+status: 2
+status_message: null
